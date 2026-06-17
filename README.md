@@ -2,7 +2,7 @@
 
 A brainstorming facilitator that plugs into Claude (and any MCP-compatible AI) to enforce **critical thinking discipline** — preventing premature closure, detecting surrender signals, and injecting productive friction.
 
-> Designed by Dr Saugat Neupane, University of New England
+> Designed by Dr Saugat Neupane
 
 ---
 
